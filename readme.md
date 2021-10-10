@@ -12,7 +12,5 @@ Requirenment:- Instaloader and Internet Connection✌
 <li>cd InstaDp_Downloader</li>
 <li>pip install instaloader</li>
 <li>./InstaDp_downloader.py</li>
-
 </ul></p>
-<h2>Feel Free To Use This Project(●'◡'●)<h2>
-<h2>Please Support Me By Giving Star..🎇</h2>
+<h2>Feel Free To Use This Project(●'◡'●) And Support Me By Giving Star..🎇</h2>
