@@ -2,11 +2,11 @@
 <h1 align="center"> 🅸🅽🆂🆃🅰🅳🅿_🅳🅾🆆🅻🅾🅰🅳🅴🆁</h1>
 <h3 align="center">This Is An Instagram Profile Picture🧒 Downloader..</h3>
 <p align="center">
-<h2>
+<h3>
 Requirenment:- Instaloader and Internet Connection✌
-</h2>
-<h2>Install Requirenment By using command:- pip install instaloader</h2>
-<h2>Usage:-
+</h3>
+<h3>Install Requirenment By using command:- pip install instaloader</h3>
+<h3>Usage:-
 <ul>
 <li>git clone https://github.com/YAKSHIT-22/InstaDp_Downloader</li>
 <li>cd InstaDp_Downloader</li>
