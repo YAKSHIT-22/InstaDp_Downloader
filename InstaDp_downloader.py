@@ -1,6 +1,15 @@
 import instaloader
 import os , time
 ig=instaloader.Instaloader()
+def clear():
+    name = os.name
+    if name == 'nt':
+        _ = os.system('cls')
+    else:
+        os.system('clear')
+
+
+clear()
 print(""""\033[1;34;40m\n
   _               _           ___              ___                      _                      _              
  (_)             ( )_        (  _ \           (  _ \                   (_ )                   ( )             
@@ -17,6 +26,7 @@ x="\033[1;32;40m\nPlease Support Me By Giving Star..."
 y=0
 while y <=len(x):
     os.system('cls')
+    os.system('clear')
     print (x[:y])
     time.sleep(.1)
     y=y+1
