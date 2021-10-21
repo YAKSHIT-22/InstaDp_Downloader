@@ -19,7 +19,8 @@ print(""""\033[1;34;40m\n
  (_)(() (_)(__(_/)\__) \(_ _)(____/ |  __/    (____/  \ __/  \  /\___/ ( (_) \ __/  \(_ _) ) _ _) )\___)(()   
     (_)      /( (__)   (_)          | |               /(      \(       (_)   /(     (_)   (__)   (__)   (_)   
             (__)                    (_)              (__)     (_)           (__)                              
-""")
+
+ CODED BY :- YAKSHIT@LUCIFER""")
 profile=input("\033[1;31;40m\n Enter username:- ")
 ig.download_profile(profile,profile_pic_only=True)
 x="\033[1;32;40m\nPlease Support Me By Giving Star..."
