@@ -6,11 +6,11 @@
 Requirenment:- Instaloader and Internet Connection✌
 </h3>
 <h3>Install Requirenment By using command:- pip install instaloader</h3>
-<h3>Usage:-
+<h3>Usage:-</h3>
 <ul>
 <li>git clone https://github.com/YAKSHIT-22/InstaDp_Downloader</li>
 <li>cd InstaDp_Downloader</li>
 <li>pip install instaloader</li>
 <li>./InstaDp_downloader.py or python3 InstaDp_downloader.py</li>
-</ul></h3></p>
+</ul></p>
 <h2>Feel Free To Use This Project(●'◡'●) And Support Me By Giving Star..🎇</h2>
